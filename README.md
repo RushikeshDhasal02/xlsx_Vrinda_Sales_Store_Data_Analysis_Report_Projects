@@ -43,7 +43,7 @@ To increase sales in 2023, target women customers aged 30–49 years in Maharash
 
 🛠 Tools Used
 
-Microsoft Excel / Power BI
+Microsoft Excel
 
 Data Cleaning & Data Visualization
 
